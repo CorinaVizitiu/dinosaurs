@@ -1,3 +1,7 @@
+A React project, timeline with a topic of your choice
+
+You can see it here :
+https://corinavizitiu.github.io/dinosaurs/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
