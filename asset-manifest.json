@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dinosaurs/static/css/main.0562ff3e.css",
+    "main.js": "/dinosaurs/static/js/main.168cf8e4.js",
+    "static/js/787.b91d0027.chunk.js": "/dinosaurs/static/js/787.b91d0027.chunk.js",
+    "static/media/21.webp": "/dinosaurs/static/media/21.06cecff9abbd5b67f339.webp",
+    "static/media/1.webp": "/dinosaurs/static/media/1.b853d094512908bce4db.webp",
+    "static/media/4.webp": "/dinosaurs/static/media/4.00b07d5630b20e8fc997.webp",
+    "static/media/17.webp": "/dinosaurs/static/media/17.a052b726cd9f2921a69c.webp",
+    "static/media/6.webp": "/dinosaurs/static/media/6.21722308485625332ae2.webp",
+    "static/media/22.webp": "/dinosaurs/static/media/22.798d34f68c43b4967a10.webp",
+    "static/media/2.webp": "/dinosaurs/static/media/2.e13cae468c27c236fc2b.webp",
+    "static/media/8.webp": "/dinosaurs/static/media/8.b797685940f98eac130b.webp",
+    "static/media/15.webp": "/dinosaurs/static/media/15.574d66f4cd63eac9321d.webp",
+    "static/media/14.webp": "/dinosaurs/static/media/14.343248e649e26cf55f8c.webp",
+    "static/media/3.webp": "/dinosaurs/static/media/3.ffdcf2fe7d4b06dfee2c.webp",
+    "static/media/18.webp": "/dinosaurs/static/media/18.d9a0ad93cf9f09b185c0.webp",
+    "static/media/12.webp": "/dinosaurs/static/media/12.28652b0f29d5b2274c60.webp",
+    "static/media/13.webp": "/dinosaurs/static/media/13.406a0a1442a25f4dc2d6.webp",
+    "static/media/7.webp": "/dinosaurs/static/media/7.c3ca818fe484f5f706df.webp",
+    "static/media/20.webp": "/dinosaurs/static/media/20.811b294f55f9e5944302.webp",
+    "static/media/16.webp": "/dinosaurs/static/media/16.6e891f0bbbcbac613d86.webp",
+    "static/media/19.webp": "/dinosaurs/static/media/19.ff77a2f75b9eca6ae513.webp",
+    "static/media/5.webp": "/dinosaurs/static/media/5.e17c0a6da2d5a08fd922.webp",
+    "static/media/11.webp": "/dinosaurs/static/media/11.4850e4f4ee383bbf61e6.webp",
+    "static/media/9.webp": "/dinosaurs/static/media/9.19eff95f0e5b5efcd863.webp",
+    "static/media/10.webp": "/dinosaurs/static/media/10.5832c76cfbf4a7ab3f66.webp",
+    "index.html": "/dinosaurs/index.html",
+    "main.0562ff3e.css.map": "/dinosaurs/static/css/main.0562ff3e.css.map",
+    "main.168cf8e4.js.map": "/dinosaurs/static/js/main.168cf8e4.js.map",
+    "787.b91d0027.chunk.js.map": "/dinosaurs/static/js/787.b91d0027.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0562ff3e.css",
+    "static/js/main.168cf8e4.js"
+  ]
+}
